@@ -1,0 +1,17 @@
+{
+  "name": "etm-dapp-demo",
+  "link": "https://github.com/etm-developer/etm-dapp-demo/archive/v1.0.zip",
+  "category": 1,
+  "description": "etm dapp template application",
+  "tags": "etm dapp template",
+  "icon": "http://www.entanmo.com/icon.png",
+  "delegates": [
+    "cd15f565f781766686fcae1c57b49c19070356526ec17869ed1a34def12c2b34",
+    "d73eaa63c7dc4b14efd8dbd95a6741d6d56d799e5ca1751cb6418a630e1b64b1",
+    "ef44f9e6e4ca49666eb1209bd3cc6578bfcb4b2904b865a63fa232ab95a96e7c",
+    "0c680237d7778c1ae6c118109961128efe9964f28ab91368237c2e1d200be87b",
+    "9f6bd316f7134e3c44a4597f52f089db83882ca64e5b6df208868bf21188898c"
+  ],
+  "unlockDelegates": 3,
+  "type": 0
+}
